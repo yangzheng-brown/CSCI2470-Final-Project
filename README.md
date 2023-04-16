@@ -1,3 +1,3 @@
-# CSCI2470-Final-Project
+# CSCI2470-Final-Project: Fashion Forward
 Personalization has emerged as a significant trend in recent years, with more consumers seeking unique and customized clothing options that reflect their personalities and preferences. However, creating a wide variety of designs can be time-consuming and costly for fashion retailers. Our main objective of project is to create a deep learning model that can regenerate a given clothing image into a new image with different attributes and clothing type. For instance, if we have a hoodie with color block, we can instruct the model to transform this image into a jacket with a palm pattern. We hope this deep learning model could enable retailers to provide more personalized and customizedclothing options for their customers, thereby enhancing their shopping experience.
 
