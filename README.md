@@ -49,3 +49,17 @@ Reconstruction Results after 200 Epochs
 With extended training, the model significantly improves, capturing finer details and more accurate colors. The reconstructed images closely resemble the original inputs, showcasing the effectiveness of the deep learning techniques utilized.
 
 ![Reconstruction after 200 epochs](result/result_for_200_epochs_updated_model.png)
+
+**Enhanced Results** - Personalized Color Transformations
+One of the standout features of our model is its ability to apply personalized color transformations to clothing items. This capability demonstrates not only the model's understanding of fashion aesthetics but also its potential in real-world applications where consumers seek customization. Below are a few examples showcasing the model's ability in altering the colors of different apparel items, enhancing their appeal and variety.
+
+![Regeneration 1](result/regenerated_image_1.png)
+
+![Regeneration 2](result/regenerated_image_2.png)
+
+## Conclusion
+Throughout the development and training of our model, we have observed consistent improvements in the quality and accuracy of the image transformations, particularly with extended training periods. Our results after 200 epochs clearly demonstrate the model's potential in generating personalized and aesthetically pleasing clothing items.
+
+Due to computational constraints, we limited our training to 200 epochs. However, the observed trends suggest that additional training could yield even better results. We believe that with more epochs, the model could achieve finer details and more accurate color reproductions, further enhancing its ability to meet diverse consumer preferences.
+
+Looking ahead, we are interested in exploring other advanced modeling techniques to enhance our project's capabilities. Diffusion models, known for their state-of-the-art performance in generating high-quality images, are particularly promising. We anticipate that incorporating such models could provide significant breakthroughs in the realism and creativity of our fashion transformations.
