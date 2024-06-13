@@ -43,9 +43,9 @@ Our project utilizes a Conditional Variational Autoencoder (CVAE) integrated wit
 Reconstruction Results after 10 Epochs
 Initially, the model demonstrates a basic ability to reconstruct the input images. While the details are somewhat blurred, the overall shapes and colors are recognizable, indicating the model's potential.
 
-![Reconstruction after 10 epochs](result/result for 10 epochs_updated model.png)
+![Reconstruction after 10 epochs](result/result_for_10_epochs_updated_model.png)
 
 Reconstruction Results after 200 Epochs
 With extended training, the model significantly improves, capturing finer details and more accurate colors. The reconstructed images closely resemble the original inputs, showcasing the effectiveness of the deep learning techniques utilized.
 
-![Reconstruction after 200 epochs](result/result for 200 epochs_updated model.png)
+![Reconstruction after 200 epochs](result/result_for_200_epochs_updated_model.png)
