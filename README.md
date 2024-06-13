@@ -48,4 +48,4 @@ Initially, the model demonstrates a basic ability to reconstruct the input image
 Reconstruction Results after 200 Epochs
 With extended training, the model significantly improves, capturing finer details and more accurate colors. The reconstructed images closely resemble the original inputs, showcasing the effectiveness of the deep learning techniques utilized.
 
-![Reconstruction after 200 epochs](result/result for 200 epochs_updated model_epochs.png)
+![Reconstruction after 200 epochs](result/result for 200 epochs_updated model.png)
